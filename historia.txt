@@ -4,3 +4,6 @@ Desde entonces, nunca olvida hacer git add . antes de celebrar.
 Ana juro que su proxima mision seria entender los branch conflicts.
 Descubrio que no todos los errores se resuelven con un simple git push --force.
 Y asi, entre commits y cafes, aprendio que cada fallo era solo otro merge con la experiencia.
+Hasta que un dia, su codigo compilo sin errores... y tambien sin advertencias.
+Sonrio, tomo un sorbo de cafe frio y escribio su mejor commit: "feat: confiar en el proceso".
+Git, en silencio, aprobo el merge.
