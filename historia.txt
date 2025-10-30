@@ -4,3 +4,6 @@ Desde entonces, nunca olvida hacer git add . antes de celebrar.
 Ana juro que su proxima mision seria entender los branch conflicts.
 Descubrio que no todos los errores se resuelven con un simple git push --force.
 Y asi, entre commits y cafes, aprendio que cada fallo era solo otro merge con la experiencia.
+Una noche, el repositorio quedo en rojo y Ana decidio no rendirse.
+Entre logs y mensajes cripticos, encontro la calma en cada rollback.
+Desde entonces, su mantra fue simple: "commit temprano, commit seguido".
