@@ -1,0 +1,3 @@
+Ana creo su primer repositorio sin saber que olvido hacer commit al README.
+Horas despues, Git la miraba en silencio mientras ella buscaba sus cambios perdidos.
+Desde entonces, nunca olvida hacer git add . antes de celebrar.
