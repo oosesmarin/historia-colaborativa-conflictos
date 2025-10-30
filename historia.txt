@@ -1,3 +1,6 @@
 Ana creo su primer repositorio sin saber que olvido hacer commit al README.
 Horas despues, Git la miraba en silencio mientras ella buscaba sus cambios perdidos.
 Desde entonces, nunca olvida hacer git add . antes de celebrar.
+Ana juro que su proxima mision seria entender los branch conflicts.
+Descubrio que no todos los errores se resuelven con un simple git push --force.
+Y asi, entre commits y cafes, aprendio que cada fallo era solo otro merge con la experiencia.
